@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @aarushi6601
-- 👀 I’m interested in Competitive coding and Web development.
-- 🌱 I’m currently looking for internships that can enhance my skills and help me learn and grow.
 
 
 <!---
