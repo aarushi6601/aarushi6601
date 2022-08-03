@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aarushi Agarwal</h1>
-<h3 align="center">A passionate web developer and a coding enthusiast.</h3>
+<h3 align="center">A computer science undergrad passionate about building software that contributes positively to people's lives.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aarushi6601@gmail.com**
 
-- ⚡ Fun fact **I think I have so much to learn and explore**
+- ⚡ Fun fact **I like reading novels and wondering about the intricacies of human brain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
